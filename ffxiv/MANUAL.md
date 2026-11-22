@@ -42,7 +42,7 @@ FF14 擴充是 FF14 高難副本的**錄影＋復盤**工具：錄下遊戲畫�
 **新安裝，或沒看到搬家提示**：
 
 1. 到 [ReFlo 的下載頁](https://github.com/LaneBlossom/reflo/releases/latest) 安裝 ReFlo（電腦上有 Rewipe 的設定的話，第一次開啟時一樣會問要不要匯入）。
-2. 到 [ReFlo 擴充的 Releases](https://github.com/LaneBlossom/reflo-extensions/releases?q=ext-ffxiv) 下載最新的 `ffxiv-x.x.x.reflo-ext`（標籤是 `ext-ffxiv-v…`）。
+2. 到 [ReFlo 擴充的 Releases](https://github.com/LaneBlossom/reflo-extensions/releases?q=FF14) 下載最新的 `ffxiv-x.x.x.reflo-ext`（標籤是 `ext-ffxiv-v…`）。
 3. 打開 ReFlo，把 `.reflo-ext` 檔拖進視窗（或右上角 **☰ →「擴充功能」→「從檔案安裝…」**），確認後按「安裝」，再按「**立即重新開啟**」。
 
 **更新、停用、移除**：都在 ReFlo 的 **☰ →「擴充功能」**。ReFlo 開啟時會自動檢查擴充的新版，有新版時 ☰ 上會有小圓點，按「更新」就好。ReFlo 只會安裝作者簽章過的擴充檔，檔案被改過就不會安裝或載入。

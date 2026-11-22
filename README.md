@@ -4,8 +4,8 @@
 
 | 擴充 | 遊戲 | 功能 | 下載 |
 | --- | --- | --- | --- |
-| 英雄聯盟 | League of Legends | 開打自動錄影、依勝敗命名檔案；復盤時列出擊殺、死亡、小龍、巴龍、防禦塔，點一下就跳到那一刻 | [最新版](https://github.com/LaneBlossom/reflo-extensions/releases?q=ext-lol) |
-| FF14 附加功能 | FINAL FANTASY XIV | 連接 ACT：開戰自動錄影、每場一個檔案，Overlay 顯示副本、DPS、團減、死因；復盤時載入 ACT log 或 FFLogs 報告，技能軸與分析模式（減傷、受擊明細、本場統計） | [最新版](https://github.com/LaneBlossom/reflo-extensions/releases?q=ext-ffxiv) |
+| 英雄聯盟 | League of Legends | 開打自動錄影、依勝敗命名檔案；復盤時列出擊殺、死亡、小龍、巴龍、防禦塔，點一下就跳到那一刻 | [最新版](https://github.com/LaneBlossom/reflo-extensions/releases?q=%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F) |
+| FF14 附加功能 | FINAL FANTASY XIV | 連接 ACT：開戰自動錄影、每場一個檔案，Overlay 顯示副本、DPS、團減、死因；復盤時載入 ACT log 或 FFLogs 報告，技能軸與分析模式（減傷、受擊明細、本場統計） | [最新版](https://github.com/LaneBlossom/reflo-extensions/releases?q=FF14) |
 
 📖 FF14 附加功能的完整說明：[FF14 附加功能手冊](ffxiv/MANUAL.md)
 
